@@ -1,22 +1,28 @@
 # Online Marketplace App
 
-A Swift-based mobile application for buying and selling products in an online marketplace.
+A Swift-based mobile application for buying and selling products in an online marketplace, similar to Amazon and Trendyol.
 
 ## Overview
 
-This project is an iOS marketplace application built entirely in Swift. It provides a platform for users to browse, list, and purchase products in a user-friendly environment.
+This project is an iOS marketplace application built entirely in Swift. It provides a comprehensive platform for users to browse, discover, list, and purchase products in a user-friendly environment, mirroring the functionality of major e-commerce platforms like Amazon and Trendyol.
 
 ## Features
 
-- **Product Browsing**: Browse and search for products in the marketplace
+- **Product Browsing**: Browse and search for products across multiple categories
+- **Advanced Filtering**: Filter products by price, ratings, availability, and more
 - **Listing Management**: Create, edit, and manage product listings
-- **User Accounts**: Secure user authentication and profile management
-- **Shopping Experience**: Seamless product discovery and purchasing flow
-- **Transaction History**: Track orders and purchase history
+- **Seller Dashboard**: View sales, manage inventory, and track orders
+- **User Accounts**: Secure user authentication and comprehensive profile management
+- **Shopping Cart**: Add products to cart and manage your selections
+- **Checkout Experience**: Seamless product discovery and secure purchasing flow
+- **Order Management**: Track orders in real-time and manage purchases
+- **Transaction History**: Complete order history and purchase tracking
+- **Product Reviews & Ratings**: User ratings and review system for products
+- **Wishlist**: Save favorite products for later
 
 ## Tech Stack
 
-- **Language**: Swift
+- **Language**: Swift (100%)
 - **Platform**: iOS
 - **Architecture**: Modern Swift development patterns
 
@@ -66,11 +72,11 @@ For more information, visit the [project repository](https://github.com/Bedirhan
 ## Roadmap
 
 - [ ] Enhanced search and filtering capabilities
-- [ ] Payment integration
-- [ ] User ratings and reviews
-- [ ] Push notifications
-- [ ] Advanced marketplace analytics
+- [ ] Payment gateway integration
+- [ ] Advanced user ratings and reviews
+- [ ] Push notifications for order updates
+- [ ] Marketplace analytics and seller insights
+- [ ] Multi-language support
+- [ ] Live chat support between buyers and sellers
 
 ---
-
-
