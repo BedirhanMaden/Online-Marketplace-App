@@ -85,4 +85,4 @@ For more information, visit the [project repository](https://github.com/Bedirhan
 
 ---
 
-Built with ❤️ using Swift
+
