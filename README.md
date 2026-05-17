@@ -59,18 +59,6 @@ Online-Marketplace-App/
 └── README.md        # This file
 ```
 
-## Usage
-
-[Add specific instructions on how to use the app here]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## License
-
-This project is currently unlicensed. See the repository for more information.
-
 ## Contact
 
 For more information, visit the [project repository](https://github.com/BedirhanMaden/Online-Marketplace-App) or contact the maintainer.
